@@ -1,1 +1,1 @@
-# EventMagementApp
+# EventManagementApp
